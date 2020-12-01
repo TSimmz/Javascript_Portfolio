@@ -47,3 +47,5 @@ const freeTheWilly =
     "Cover your peter, it will be much neater!",
     "Put on the sling, before you get some bling!",
 ];
+
+console.log(freeTheWilly[Math.floor(Math.random()*freeTheWilly.length)]);
